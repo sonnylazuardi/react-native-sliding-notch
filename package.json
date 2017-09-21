@@ -8,7 +8,9 @@
 	},
 	"dependencies": {
 		"react": "16.0.0-alpha.12",
+		"react-motion": "^0.5.1",
 		"react-native": "0.48.3",
+		"react-native-slide-down-panel": "^1.0.6",
 		"rn-sliding-up-panel": "^1.1.5"
 	},
 	"devDependencies": {
